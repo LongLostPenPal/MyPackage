@@ -1,0 +1,666 @@
+2020-11-04 18:03:19.708452+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP UnityEarlyTransactionObserver: Created
+2020-11-04 18:03:19.710374+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP UnityEarlyTransactionObserver: Registered for lifecycle events
+2020-11-04 18:03:19.985126+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Loading UIApplication FIRFCM category
+CrashReporter: initialized
+2020-11-04 18:03:20.117148+0800 Vegas Friends Casino Slots[87330:3002127] Built from '2019.2/staging' branch, Version '2019.2.21f1 (9d528d026557)', Build type 'Release', Scripting Backend 'il2cpp'
+2020-11-04 18:03:20.120070+0800 Vegas Friends Casino Slots[87330:3002127] -> registered mono modules 0x107051fc0
+2020-11-04 18:03:20.129254+0800 Vegas Friends Casino Slots[87330:3002127] Setting up iOS 10 message delegate.
+-> applicationDidFinishLaunching()
+2020-11-04 18:03:20.192370+0800 Vegas Friends Casino Slots[87330:3002127] Metal GPU Frame Capture Enabled
+2020-11-04 18:03:20.287839+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP UnityEarlyTransactionObserver: Added to the payment queue
+-> applicationDidBecomeActive()
+GfxDevice: creating device client; threaded=1
+Initializing Metal device caps: Apple A12 GPU
+Initialize engine version: 2019.2.21f1 (9d528d026557)
+2020-11-04 18:03:20.526995+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - <AppMeasurement>[I-ACS024000] Debug mode is on
+2020-11-04 18:03:20.527055+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - <AppMeasurement>[I-ACS031025] Analytics screen reporting is enabled. Call +[FIRAnalytics logEventWithName:FIREventScreenView parameters:] to log a screen view event. To disable automatic screen reporting, set the flag FirebaseAutomaticScreenReportingEnabled to NO (boolean) in the Info.plist
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: ./Runtime/Mono/MonoScriptCache.cpp Line: 355)
+
+OnLevelWasLoaded was found on XLuaManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: ./Runtime/Mono/MonoScriptCache.cpp Line: 355)
+
+CrashReporter: No pending report exists at /var/mobile/Containers/Data/Application/A50EFB87-83CB-4D05-AF2C-F3CB07CD84B5/Library/Caches/CrashReports/crash-pending.plcrash
+2020-11-04 18:03:20.770960+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [GULReachability][I-REA902003] Monitoring the network status
+2020-11-04 18:03:20.771178+0800 Vegas Friends Casino Slots[87330:3002127] Unbalanced calls to begin/end appearance transitions for <SplashScreenController: 0x10f4c52e0>.
+2020-11-04 18:03:20.772586+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [GULReachability][I-REA902004] Network status has changed. Code:1, status:Disconnected
+2020-11-04 18:03:20.773590+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - <AppMeasurement>[I-ACS800023] No pending snapshot to activate. SDK name: app_measurement
+2020-11-04 18:03:20.774127+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - <AppMeasurement>[I-ACS031010] Tracking view controller. Class, ID: UnityDefaultViewController, -7810835210777917502
+2020-11-04 18:03:20.774176+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - <AppMeasurement>[I-ACS031006] View controller already tracked. Class, ID: UnityDefaultViewController, -7810835210777917502
+2020-11-04 18:03:20.793828+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - <AppMeasurement>[I-ACS002002] APMExperimentAlarm scheduled to fire in approx. (s): 11421.64613807201
+UnloadTime: 0.441208 ms
+SwitchToLandscape  enter 
+ResetResolution  get screen width 2688 height: 1242
+Debug_on
+2020-11-04 18:03:21.037298+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Core][I-COR000003] The default Firebase app has not yet been configured. Add `[FIRApp configure];` (`FirebaseApp.configure()` in Swift) to your application initialization. Read more: https://goo.gl/ctyzm8.
+2020-11-04 18:03:21.037489+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Core][I-COR000001] Configuring the default app.
+2020-11-04 18:03:21.040491+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023007] Analytics v.60802000 started
+2020-11-04 18:03:21.040640+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023008] To disable debug logging set the following application argument: -noFIRAnalyticsDebugEnabled (see http://goo.gl/RfcP7r)
+2020-11-04 18:03:21.041122+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023009] Debug logging enabled
+2020-11-04 18:03:21.041182+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023207] To enable verbose logging set the following application argument: -FIRAnalyticsVerboseLoggingEnabled (see http://goo.gl/RfcP7r)
+2020-11-04 18:03:21.041247+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Installations][I-FIS002000] -[FIRInstallationsIDController createGetInstallationItemPromise], appName: __FIRAPP_DEFAULT
+2020-11-04 18:03:21.042106+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [GULReachability][I-REA902003] Monitoring the network status
+2020-11-04 18:03:21.042883+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS025036] App Delegate Proxy is disabled
+2020-11-04 18:03:21.046584+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Messaging][I-FCM002000] FIRMessaging library version 4.6.2
+2020-11-04 18:03:21.047203+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [GULReachability][I-REA902003] Monitoring the network status
+2020-11-04 18:03:21.047338+0800 Vegas Friends Casino Slots[87330:3002127] [Firebase/Crashlytics] Version 4.6.0
+2020-11-04 18:03:21.047652+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] [Crashlytics] Running on iPhone11,6, 13.7.0 (17H35)
+2020-11-04 18:03:21.048240+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] [Crashlytics:Settings] No settings were cached
+2020-11-04 18:03:21.054443+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] [Crashlytics:Crash:Reports:Event] Registered Firebase Analytics event listener
+2020-11-04 18:03:21.054543+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] Automatic data collection is enabled.
+2020-11-04 18:03:21.054617+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] Unsent reports will be uploaded at startup
+2020-11-04 18:03:21.056650+0800 Vegas Friends Casino Slots[87330:3002127] Remote Config API Initializing
+2020-11-04 18:03:21.057969+0800 Vegas Friends Casino Slots[87330:3002127] Remote Config API Initialized
+2020-11-04 18:03:21.059353+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/RemoteConfig][I-RCN000062] Loading database at path /var/mobile/Containers/Data/Application/A50EFB87-83CB-4D05-AF2C-F3CB07CD84B5/Library/Application Support/Google/RemoteConfig/RemoteConfig.sqlite3
+2020-11-04 18:03:21.060678+0800 Vegas Friends Casino Slots[87330:3002308] [] tcp_input [C1.1:3] flags=[R] seq=2027846589, ack=0, win=0 state=CLOSED rcv_nxt=2027846589, snd_una=621458260
+2020-11-04 18:03:21.060818+0800 Vegas Friends Casino Slots[87330:3002308] [] tcp_input [C1.1:3] flags=[R] seq=2027846589, ack=0, win=0 state=CLOSED rcv_nxt=2027846589, snd_una=621458260
+2020-11-04 18:03:21.069738+0800 Vegas Friends Casino Slots[87330:3002311] 6.32.0 - [Firebase/Analytics][I-ACS800023] No pending snapshot to activate. SDK name: app_measurement
+2020-11-04 18:03:21.070526+0800 Vegas Friends Casino Slots[87330:3002311] 6.32.0 - [Firebase/Analytics][I-ACS029014] Successfully parsed a configuration. Version: 1602679377833862
+2020-11-04 18:03:21.071197+0800 Vegas Friends Casino Slots[87330:3002311] 6.32.0 - [Firebase/Analytics][I-ACS023016] Analytics is ready to receive events
+2020-11-04 18:03:21.076582+0800 Vegas Friends Casino Slots[87330:3002127] 	[Adjust]w: SANDBOX: Adjust is running in Sandbox mode. Use this setting for testing. Don't forget to set the environment to `production` before publishing
+2020-11-04 18:03:21.077157+0800 Vegas Friends Casino Slots[87330:3002127] 	[Adjust]d: Read Attribution: tt:n5wmo7n tn:Organic net:Organic cam:(null) adg:(null) cre:(null) cl:(null) adid:dc327240344c8e8e28706481f56e4358
+2020-11-04 18:03:21.078648+0800 Vegas Friends Casino Slots[87330:3002311] 6.32.0 - [Firebase/Analytics][I-ACS032006] Scheduling Search Ad Report timer
+2020-11-04 18:03:21.078837+0800 Vegas Friends Casino Slots[87330:3002127] 	[Adjust]v: Value read from the keychain
+2020-11-04 18:03:21.078969+0800 Vegas Friends Casino Slots[87330:3002127] 	[Adjust]d: Read Activity state: ec:1 sc:2 ssc:2 ask:0 sl:180.0 ts:150.0 la:1604484071.0 dt:(null) gdprf:0 dtps:0 att:-1
+2020-11-04 18:03:21.080792+0800 Vegas Friends Casino Slots[87330:3002311] 6.32.0 - [Firebase/Analytics][I-ACS002002] Search Ad campaign report alarm scheduled to fire in approx. (s): 83411.34065103531
+advertisingId 0E25EAA2-F523-498C-8BFA-594DA211C585 True 
+======================AdjustInit
+Fetching data...
+InitAppleLogin
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2020-11-04 18:03:21.083016+0800 Vegas Friends Casino Slots[87330:3002127] Using Sign in with Apple Unity Plugin - v1.3.0
+InitAppleLogin2
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2020-11-04 18:03:21.083205+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: File AdjustSessionCallbackParameters not found in "Application Support/Adjust" folder
+2020-11-04 18:03:21.083269+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: File AdjustSessionCallbackParameters not found in Documents folder
+2020-11-04 18:03:21.083418+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: File AdjustSessionPartnerParameters not found in "Application Support/Adjust" folder
+2020-11-04 18:03:21.083460+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: File AdjustSessionPartnerParameters not found in Documents folder
+2020-11-04 18:03:21.083613+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]i: Event buffering is enabled
+2020-11-04 18:03:21.083702+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]v: Foreground timer configured to fire after 60.0 seconds of starting and cycles every 60.0 seconds
+2020-11-04 18:03:21.083724+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]i: Send in background configured
+2020-11-04 18:03:21.086116+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: ADJUST_NO_IAD or TARGET_OS_TV not set
+2020-11-04 18:03:21.086503+0800 Vegas Friends Casino Slots[87330:3002309] 	[Adjust]d: Package handler read 0 packages
+2020-11-04 18:03:21.086365+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: iAd framework successfully found in user's app
+2020-11-04 18:03:21.088431+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]v: Background timer canceled
+2020-11-04 18:03:21.088468+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]v: Foreground timer starting
+2020-11-04 18:03:21.088501+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]v: Subsession start
+2020-11-04 18:03:21.088531+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]v: Started subsession 3 of session 2
+2020-11-04 18:03:21.092618+0800 Vegas Friends Casino Slots[87330:3002307] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:3 ask:0 sl:310.1 ts:150.0 la:1604484201.1 dt:(null) gdprf:0 dtps:0 att:-1
+SwitchToLandscape  enter 
+ResetResolution  get screen width 2688 height: 1242
+SwitchToLandscape  enter 
+ResetResolution  get screen width 2688 height: 1242
+SwitchToLandscape  enter 
+ResetResolution  get screen width 2688 height: 1242
+Using Facebook Unity SDK v7.21.2 with FBiOSSDK/7.1.1
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+Remote Config API Initializing
+Remote Config API Initialized
+2020-11-04 18:03:21.106487+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/RemoteConfig][I-RCN000039] Starting requesting token.
+2020-11-04 18:03:21.106568+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Installations][I-FIS002001] -[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:0], appName: __FIRAPP_DEFAULT
+2020-11-04 18:03:21.107481+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS002002] Engagement timer scheduled to fire in approx. (s): 3600
+2020-11-04 18:03:21.107529+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS023012] Analytics collection enabled
+2020-11-04 18:03:21.110983+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [GULReachability][I-REA902004] Network status has changed. Code:2, status:Connected
+2020-11-04 18:03:21.111911+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [GULReachability][I-REA902004] Network status has changed. Code:2, status:Connected
+2020-11-04 18:03:21.114371+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: auto, screen_view (_vs), {
+    ga_event_origin (_o) = auto;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:03:21.115400+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: screen_view (_vs), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:03:21.120484+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: screen_view (_vs), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:03:21.122620+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.6491801738739014
+2020-11-04 18:03:21.124846+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Initialize Firebase Messaging
+FCM: Initialize Firebase Messaging
+2020-11-04 18:03:21.124987+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Using FCM senderID 518232436830
+FCM: Using FCM senderID 518232436830
+2020-11-04 18:03:21.125325+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Retrieve registration token
+FCM: Retrieve registration token
+2020-11-04 18:03:21.125609+0800 Vegas Friends Casino Slots[87330:3002374] 	[Adjust]d: Start sdk, since the app is already in the foreground
+2020-11-04 18:03:21.125905+0800 Vegas Friends Casino Slots[87330:3002374] 	[Adjust]v: Time span since last activity too short for a new subsession
+2020-11-04 18:03:21.135278+0800 Vegas Friends Casino Slots[87330:3002127] FCM: new registration token received.
+FCM: new registration token received.
+2020-11-04 18:03:21.135366+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Retrieve registration token
+FCM: Retrieve registration token
+Received Registration Token: dosp4-tylkTYuQ3Ouw6Kjk:APA91bGvBnFYbuSo26ejkifzBZmy5NSzpgYJViUODF3OofWIfia1l2nftUq4vl6xU8uPconGdkdn7_NSmW-FaSjtK60SaSES2JVeFkw3BQIRD5XWoUuaHmkb22CyM6XMs9edtHLOroMV
+2020-11-04 18:03:21.137184+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/Installations][I-FIS002000] -[FIRInstallationsIDController createGetInstallationItemPromise], appName: __FIRAPP_DEFAULT
+2020-11-04 18:03:21.137449+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/Installations][I-FIS002001] -[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:0], appName: __FIRAPP_DEFAULT
+2020-11-04 18:03:21.137496+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/RemoteConfig][I-RCN000022] Success to get iid : dosp4-tylkTYuQ3Ouw6Kjk.
+2020-11-04 18:03:21.137601+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/RemoteConfig][I-RCN000060] Fetch with user properties completed.
+2020-11-04 18:03:21.138640+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/RemoteConfig][I-RCN000061] Fetch with user properties initiated.
+2020-11-04 18:03:21.139635+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/RemoteConfig][I-RCN000040] Start config fetch.
+2020-11-04 18:03:21.139692+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/RemoteConfig][I-RCN000061] Making remote config fetch.
+2020-11-04 18:03:21.139916+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/RemoteConfig][I-RCN000046] Making config request: https://firebaseremoteconfig.googleapis.com/v1/projects/slots-of-vegas-45db7/namespaces/firebase:fetch?key=AIzaSyD15am57lqbkE2rgf1gmrpKs0pc8gIHlVw
+Assets.Initialize finish
+Update--Start update===========================
+Update--InitLocalVersion ResVersion = 1.22.298 AppVersion = 1.0.015
+2020-11-04 18:03:21.334123+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: app, resource_update_start, {
+    app_version = 1.0.015;
+    ga_event_origin (_o) = app;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:21.335209+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: resource_update_start, {
+    app_version = 1.0.015;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:21.342339+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: resource_update_start, {
+    app_version = 1.0.015;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+Update--Init SERVER_RESOURCE_URL http://d105xpbtjj9cjp.cloudfront.net/dragon/slotsofvegas/android/20200220_ios/
+2020-11-04 18:03:21.563303+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]v: Value read from the keychain
+2020-11-04 18:03:21.563984+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Crashlytics][I-CLS000000] Failed to download settings Error Domain=FIRCLSNetworkError Code=-5 "(null)" UserInfo={status_code=404, type=2, request_id=, content_type=text/html; charset=utf-8}
+2020-11-04 18:03:21.566351+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]d: Added sdk_click 1
+2020-11-04 18:03:21.566606+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: Path:      /sdk_click
+2020-11-04 18:03:21.566631+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: ClientSdk: unity4.23.2@ios4.23.2
+2020-11-04 18:03:21.566646+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: Parameters:
+2020-11-04 18:03:21.566717+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		app_token              7o92mqd9dreo
+2020-11-04 18:03:21.566866+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		app_updated_at         2020-11-04T18:02:15.000Z+0800
+2020-11-04 18:03:21.567136+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		app_version            7
+2020-11-04 18:03:21.567301+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		app_version_short      1.0.015
+2020-11-04 18:03:21.567449+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		attribution_deeplink   1
+2020-11-04 18:03:21.567669+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]d: Wrote Attribution: tt:n5wmo7n tn:Organic net:Organic cam:(null) adg:(null) cre:(null) cl:(null) adid:dc327240344c8e8e28706481f56e4358
+2020-11-04 18:03:21.567867+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		bundle_id              com.grandegames.slots.casino.free.ios
+2020-11-04 18:03:21.568228+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		connectivity_type      2
+2020-11-04 18:03:21.568357+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		country                CN
+2020-11-04 18:03:21.568486+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		cpu_type               CPU_SUBTYPE_ARM64E
+2020-11-04 18:03:21.568805+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		created_at             2020-11-04T18:03:21.560Z+0800
+2020-11-04 18:03:21.569082+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		details                {"Version3.1":{"iad-purchase-date":"2020-11-04T10:03:21Z","iad-keyword":"Keyword","iad-adgroup-id":"1234567890","iad-creativeset-id":"1234567890","iad-creativeset-name":"CreativeSetName","iad-campaign-id":"1234567890","iad-lineitem-id":"1234567890","iad-org-id":"1234567890","iad-conversion-date":"2020-11-04T10:03:21Z","iad-keyword-id":"12323222","iad-conversion-type":"Download","iad-country-or-region":"US","iad-org-name":"OrgName","iad-campaign-name":"CampaignName","iad-click-date":"2020-11-04T10:03:21Z","iad-attribution":"true","iad-adgroup-name":"AdGroupName","iad-keyword-matchtype":"Broad","iad-lineitem-name":"LineName"}}
+2020-11-04 18:03:21.569211+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		device_name            iPhone11,6
+2020-11-04 18:03:21.569384+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		device_type            iPhone
+2020-11-04 18:03:21.569515+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		environment            sandbox
+2020-11-04 18:03:21.569687+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		event_buffering_enabled 1
+2020-11-04 18:03:21.569848+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		fb_anon_id             XZ3576D1D9-6A14-4AC3-8B4B-5EF0907F92BD
+2020-11-04 18:03:21.569971+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		hardware_name          D331pAP
+2020-11-04 18:03:21.570205+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		idfa                   0E25EAA2-F523-498C-8BFA-594DA211C585
+2020-11-04 18:03:21.570391+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		idfv                   58C4B925-BAC7-4E4D-8B98-247C2A1F2019
+2020-11-04 18:03:21.570661+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		installed_at           2020-11-04T17:13:25.500Z+0800
+2020-11-04 18:03:21.570821+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		language               en
+2020-11-04 18:03:21.570964+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		last_interval          0
+2020-11-04 18:03:21.571227+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		m                      656EFFFFFFFFFFFF0D0700000000000000036400F9B100958F095E1B5F8EBFAA
+2020-11-04 18:03:21.571434+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		needs_response_details 1
+2020-11-04 18:03:21.571648+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		os_build               17H35
+2020-11-04 18:03:21.571835+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		os_name                ios
+2020-11-04 18:03:21.571966+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		os_version             13.7
+2020-11-04 18:03:21.572114+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		persistent_ios_uuid    fafa59ff-c17f-430a-a44b-76735ce545c1
+2020-11-04 18:03:21.572347+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		session_count          2
+2020-11-04 18:03:21.572497+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		session_length         310
+2020-11-04 18:03:21.572625+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		source                 iad3
+2020-11-04 18:03:21.572750+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		subsession_count       3
+2020-11-04 18:03:21.572871+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		time_spent             150
+2020-11-04 18:03:21.573051+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: 		tracking_enabled       1
+2020-11-04 18:03:21.573367+0800 Vegas Friends Casino Slots[87330:3002308] 	[Adjust]v: requestForPostPackage with urlString: https://app.adjust.com/sdk_click
+2020-11-04 18:03:21.712343+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/RemoteConfig][I-RCN000050] config fetch completed. Error: nil StatusCode: 200
+2020-11-04 18:03:21.720722+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/RemoteConfig][I-RCN000059] Updating config content from Response for namespace:firebase:__FIRAPP_DEFAULT with state: UPDATE
+2020-11-04 18:03:21.720801+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/RemoteConfig][I-RCN000058] Update config in DB for namespace:firebase:__FIRAPP_DEFAULT
+2020-11-04 18:03:21.722149+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/RemoteConfig][I-RCN000056] Updating metadata with fetch result.
+DeferredLinkCallback
+DeferredLinkCallback url {"callback_id":"2","did_complete":true}
+2020-11-04 18:03:21.762972+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/RemoteConfig][I-RCN000069] Most recently fetched config is already activated.
+will_pay...0
+promo...nopromo
+FetchComplete...
+2020-11-04 18:03:21.777270+0800 Vegas Friends Casino Slots[87330:3002307] [] tcp_input [C6.1:3] flags=[R] seq=3272991954, ack=0, win=0 state=CLOSED rcv_nxt=3272991954, snd_una=2536986347
+2020-11-04 18:03:21.777378+0800 Vegas Friends Casino Slots[87330:3002307] [] tcp_input [C6.1:3] flags=[R] seq=3272991954, ack=0, win=0 state=CLOSED rcv_nxt=3272991954, snd_una=2536986347
+2020-11-04 18:03:21.790889+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS002001] Measurement timer fired
+2020-11-04 18:03:21.791098+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:03:21.793683+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: screen_view (_vs), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:03:21.798053+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 483
+2020-11-04 18:03:21.798409+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 10, 1604484200771
+2020-11-04 18:03:21.801941+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: resource_update_start, {
+    app_version = 1.0.015;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:21.804719+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 553
+2020-11-04 18:03:21.804846+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 11, 1604484201329
+2020-11-04 18:03:21.809475+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023039] Measurement data sent to network. Timestamp (ms), data: 1604484201808, <APMPBMeasurementBatch: 0x280afd5c0>
+2020-11-04 18:03:21.812138+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS900000] Uploading data. Host: https://app-measurement.com/a
+2020-11-04 18:03:21.820881+0800 Vegas Friends Casino Slots[87330:3002307] [] tcp_input [C6.1:3] flags=[R] seq=3272991954, ack=0, win=0 state=CLOSED rcv_nxt=3272991954, snd_una=2536986347
+2020-11-04 18:03:21.944802+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS901006] Received SSL challenge for host. Host: https://app-measurement.com/a
+2020-11-04 18:03:22.036989+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023044] Successful upload. Got network response. Code, size: 204, -1
+2020-11-04 18:03:22.041288+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.2881840467453003
+2020-11-04 18:03:22.045295+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+6:03:22 PM BestHttpResourceWebRequester Request finished Successfully, but the server sent an error. Status Code: 403-Forbidden Message: <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>530DF4E7E7D9E634</RequestId><HostId>BX9r9f4ZgMvS40NheCkHjjYnVtFlhpZ491lD6qfeBPQM7ahgws9XxLx7/MrTVcDASNqrPDC1dd0=</HostId></Error> fileName = app_version.bytes url = http://d105xpbtjj9cjp.cloudfront.net/dragon/slotsofvegas/android/20200220_ios/app_version.bytes
+AssetBundles.BestHttpResourceWebRequester:get_error()
+<DownloadLocalServerAppVersion>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2020-11-04 18:03:22.205817+0800 Vegas Friends Casino Slots[87330:3002308] [] tcp_input [C3.1:3] flags=[R] seq=605483429, ack=0, win=0 state=CLOSED rcv_nxt=605483429, snd_una=707908038
+2020-11-04 18:03:22.205909+0800 Vegas Friends Casino Slots[87330:3002308] [] tcp_input [C3.1:3] flags=[R] seq=605483429, ack=0, win=0 state=CLOSED rcv_nxt=605483429, snd_una=707908038
+6:03:22 PM BestHttpResourceWebRequester Request finished Successfully, but the server sent an error. Status Code: 403-Forbidden Message: <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>1QAG8N4P2J2P5WBM</RequestId><HostId>m8RyPh6n1vdbTkM0476OF629x9GSdLgh9cjesue81i9FEK5O9AP8k6yQ035TFOTnDUaMZL7Nq3s=</HostId></Error> fileName = app_version.bytes url = http://d105xpbtjj9cjp.cloudfront.net/dragon/slotsofvegas/android/20200220_ios/app_version.bytes
+AssetBundles.BestHttpResourceWebRequester:get_error()
+<DownloadLocalServerAppVersion>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2020-11-04 18:03:25.372162+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]v: Response: {"timestamp":"2020-11-04T10:03:22.746Z+0000","message":"Unattributable SDK click ignored."}
+2020-11-04 18:03:25.372399+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]d: succeeded with current url strategy
+2020-11-04 18:03:25.372517+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]d: Got click JSON response with message: Unattributable SDK click ignored.
+2020-11-04 18:03:25.383080+0800 Vegas Friends Casino Slots[87330:3002297] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:3 ask:0 sl:310.1 ts:150.0 la:1604484201.1 dt:(null) gdprf:0 dtps:0 att:-1
+6:03:25 PM BestHttpResourceWebRequester Request finished Successfully, but the server sent an error. Status Code: 403-Forbidden Message: <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>6A37644B8188AFA3</RequestId><HostId>IkPYoa65hvPtz3cyA9XN+g0TzE7CHnpIRCTyJEP56D0171o5w4K5ogfEN/GRNh8URSyVYLt1hrQ=</HostId></Error> fileName = app_version.bytes url = http://d105xpbtjj9cjp.cloudfront.net/dragon/slotsofvegas/android/20200220_ios/app_version.bytes
+AssetBundles.BestHttpResourceWebRequester:get_error()
+<DownloadLocalServerAppVersion>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6:03:25 PM Update--Download ServerAppVersion FAILED
+<DownloadLocalServerAppVersion>d__45:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2020-11-04 18:03:25.578998+0800 Vegas Friends Casino Slots[87330:3002307] [] tcp_input [C10.2:3] flags=[R] seq=873619106, ack=0, win=0 state=LAST_ACK rcv_nxt=873619106, snd_una=4210617086
+2020-11-04 18:03:25.583807+0800 Vegas Friends Casino Slots[87330:3002307] [] tcp_input [C10.2:3] flags=[R] seq=873619106, ack=0, win=0 state=CLOSED rcv_nxt=873619106, snd_una=4210617086
+6:03:25 PM Update--Download serverResVersion 1.22.298
+Update--server resversion check, need to update resource: False
+2020-11-04 18:03:25.636765+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: app, resource_update_end, {
+    app_version = 1.0.015;
+    duration = 4.301962852478027;
+    ga_event_origin (_o) = app;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:25.639049+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: resource_update_end, {
+    app_version = 1.0.015;
+    duration = 4.301962852478027;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:25.654549+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: resource_update_end, {
+    app_version = 1.0.015;
+    duration = 4.301962852478027;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:25.663828+0800 Vegas Friends Casino Slots[87330:3002374] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.9684979915618896
+LUA: Common main start...
+LUA: HotfixMain start...
+ResetResolution  get screen width 2688 height: 1242
+ResetResolution  get screen width 2688 height: 1242
+LUA: GameMain start...
+OnLevelWasLoaded was found on CustomDataStructHelper
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: ./Runtime/Mono/MonoScriptCache.cpp Line: 355)
+
+2020-11-04 18:03:26.690514+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002001] Measurement timer fired
+2020-11-04 18:03:26.690599+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:03:26.692857+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: resource_update_end, {
+    app_version = 1.0.015;
+    duration = 4.301962852478027;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    res_version = 1.22.298;
+}
+2020-11-04 18:03:26.698865+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 572
+2020-11-04 18:03:26.699126+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 12, 1604484205631
+2020-11-04 18:03:26.702739+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023039] Measurement data sent to network. Timestamp (ms), data: 1604484206702, <APMPBMeasurementBatch: 0x280ae9260>
+2020-11-04 18:03:26.705801+0800 Vegas Friends Casino Slots[87330:3002297] 6.32.0 - [Firebase/Analytics][I-ACS900000] Uploading data. Host: https://app-measurement.com/a
+2020-11-04 18:03:27.260738+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS901006] Received SSL challenge for host. Host: https://app-measurement.com/a
+2020-11-04 18:03:27.372667+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023044] Successful upload. Got network response. Code, size: 204, -1
+2020-11-04 18:03:27.379406+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): -0.7478159666061401
+2020-11-04 18:03:27.387840+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:03:31.154148+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: app, LaunchToLogin, {
+    ga_event_origin (_o) = app;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    use_time = 10.05942286085337;
+}
+2020-11-04 18:03:31.155723+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: LaunchToLogin, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    use_time = 10.05942286085337;
+}
+2020-11-04 18:03:31.173467+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: LaunchToLogin, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    use_time = 10.05942286085337;
+}
+2020-11-04 18:03:31.177641+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.9733681678771973
+2020-11-04 18:03:31.179564+0800 Vegas Friends Casino Slots[87330:3002127] KeyChain Item: {length = 36, bytes = 0x37453645 45383246 2d383234 442d3431 ... 30323132 41314145 }
+2020-11-04 18:03:31.525275+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: app, login, {
+    ga_event_origin (_o) = app;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    method = guest;
+}
+2020-11-04 18:03:31.526189+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: login, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    method = guest;
+}
+2020-11-04 18:03:31.532678+0800 Vegas Friends Casino Slots[87330:3002354] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: login, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    method = guest;
+}
+Unloading 5 Unused Serialized files (Serialized files now loaded: 6)
+UnloadTime: 1.714667 ms
+
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 3431.
+Total: 18.353708 ms (FindLiveObjects: 0.275542 ms CreateObjectMapping: 0.120542 ms MarkObjects: 17.731375 ms  DeleteObjects: 0.225583 ms)
+
+2020-11-04 18:03:32.166593+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS002001] Measurement timer fired
+2020-11-04 18:03:32.166678+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:03:32.168612+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: LaunchToLogin, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    use_time = 10.05942286085337;
+}
+2020-11-04 18:03:32.168755+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: login, {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = app;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+    method = guest;
+}
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16e263000 -> priority: 1 
+2020-11-04 18:03:32.176920+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 578
+2020-11-04 18:03:32.177137+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 13, 1604484211523
+2020-11-04 18:03:32.195830+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS023039] Measurement data sent to network. Timestamp (ms), data: 1604484212195, <APMPBMeasurementBatch: 0x280a4c6c0>
+Unloading 0 Unused Serialized files (Serialized files now loaded: 6)
+2020-11-04 18:03:32.199504+0800 Vegas Friends Casino Slots[87330:3002310] 6.32.0 - [Firebase/Analytics][I-ACS900000] Uploading data. Host: https://app-measurement.com/a
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3432.
+Total: 12.678500 ms (FindLiveObjects: 0.466750 ms CreateObjectMapping: 0.073958 ms MarkObjects: 12.126583 ms  DeleteObjects: 0.010583 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 6)
+UnloadTime: 0.326625 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3442.
+Total: 11.512833 ms (FindLiveObjects: 0.210042 ms CreateObjectMapping: 0.072917 ms MarkObjects: 11.183833 ms  DeleteObjects: 0.045375 ms)
+
+2020-11-04 18:03:32.327300+0800 Vegas Friends Casino Slots[87330:3002309] 6.32.0 - [Firebase/Analytics][I-ACS901006] Received SSL challenge for host. Host: https://app-measurement.com/a
+2020-11-04 18:03:32.411051+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS023044] Successful upload. Got network response. Code, size: 204, -1
+2020-11-04 18:03:32.413234+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.110010027885437
+2020-11-04 18:03:32.446180+0800 Vegas Friends Casino Slots[87330:3002307] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+ 
+(Filename: ./Runtime/SceneManager/SceneManager.cpp Line: 566)
+
+2020-11-04 18:03:32.491687+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP: Requesting 27 products
+2020-11-04 18:03:32.502712+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP: Requesting product data...
+2020-11-04 18:03:32.611788+0800 Vegas Friends Casino Slots[87330:3002307] UnityIAP: Received 27 products
+2020-11-04 18:03:32.613113+0800 Vegas Friends Casino Slots[87330:3002307] UnityIAP: No App Receipt found
+2020-11-04 18:03:32.615274+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP: No App Receipt found
+2020-11-04 18:03:32.616411+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP: Add transaction observer
+2020-11-04 18:03:32.616457+0800 Vegas Friends Casino Slots[87330:3002127] UnityIAP UnityEarlyTransactionObserver: Request to initiate queued payments
+2020-11-04 18:04:21.168686+0800 Vegas Friends Casino Slots[87330:3002737] 	[Adjust]v: Foreground timer fired
+2020-11-04 18:04:21.180424+0800 Vegas Friends Casino Slots[87330:3002737] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:3 ask:0 sl:370.2 ts:210.1 la:1604484261.2 dt:(null) gdprf:0 dtps:0 att:-1
+2020-11-04 18:04:22.586667+0800 Vegas Friends Casino Slots[87330:3002782] [] tcp_input [C8.1:3] flags=[R] seq=1063939429, ack=0, win=0 state=LAST_ACK rcv_nxt=1063939429, snd_una=3521091902
+2020-11-04 18:04:22.587320+0800 Vegas Friends Casino Slots[87330:3002782] [] tcp_input [C8.1:3] flags=[R] seq=1063939429, ack=0, win=0 state=CLOSED rcv_nxt=1063939429, snd_una=3521091902
+2020-11-04 18:04:22.587543+0800 Vegas Friends Casino Slots[87330:3002782] [] tcp_input [C8.1:3] flags=[R] seq=1063939429, ack=0, win=0 state=CLOSED rcv_nxt=1063939429, snd_una=3521091902
+2020-11-04 18:04:36.213477+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Disconnect FCM service
+-> applicationWillResignActive()
+2020-11-04 18:04:36.228894+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002003] Engagement timer canceled
+2020-11-04 18:04:36.228949+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002002] Engagement timer scheduled to fire in approx. (s): 3600
+2020-11-04 18:04:36.229078+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002003] Engagement timer canceled
+2020-11-04 18:04:36.230729+0800 Vegas Friends Casino Slots[87330:3002782] 	[Adjust]v: Foreground timer suspended
+2020-11-04 18:04:36.230930+0800 Vegas Friends Casino Slots[87330:3002782] 	[Adjust]v: Background timer starting. Launching in 60.0 seconds
+2020-11-04 18:04:36.231092+0800 Vegas Friends Casino Slots[87330:3002782] 	[Adjust]v: Subsession end
+2020-11-04 18:04:36.233652+0800 Vegas Friends Casino Slots[87330:3002782] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:3 ask:0 sl:385.2 ts:225.2 la:1604484276.2 dt:(null) gdprf:0 dtps:0 att:-1
+2020-11-04 18:04:36.242285+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: auto, user_engagement (_e), {
+    engagement_time_msec (_et) = 75155;
+    ga_event_origin (_o) = auto;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.243429+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: user_engagement (_e), {
+    engagement_time_msec (_et) = 75155;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.248616+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: user_engagement (_e), {
+    engagement_time_msec (_et) = 75155;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.318086+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.9248398542404175
+2020-11-04 18:04:36.318301+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: auto, app_background (_ab), {
+    ga_event_origin (_o) = auto;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.318866+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: app_background (_ab), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.330367+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: app_background (_ab), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.378537+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: user_engagement (_e), {
+    engagement_time_msec (_et) = 75155;
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.378885+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: app_background (_ab), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = auto;
+    ga_realtime (_r) = 1;
+    ga_screen_class (_sc) = UnityDefaultViewController;
+    ga_screen_id (_si) = -7810835210777917502;
+}
+2020-11-04 18:04:36.384246+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023087] User property set. Name, value: lifetime_user_engagement (_lte), 195991
+2020-11-04 18:04:36.384796+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS023087] User property set. Name, value: session_user_engagement (_se), 121430
+2020-11-04 18:04:36.387614+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 538
+2020-11-04 18:04:36.387900+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 14, 1604484276228
+2020-11-04 18:04:36.391108+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS023039] Measurement data sent to network. Timestamp (ms), data: 1604484276390, <APMPBMeasurementBatch: 0x280a35a40>
+2020-11-04 18:04:36.393773+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS900000] Uploading data. Host: https://app-measurement.com/a
+2020-11-04 18:04:36.536973+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Analytics][I-ACS901006] Received SSL challenge for host. Host: https://app-measurement.com/a
+2020-11-04 18:04:36.631356+0800 Vegas Friends Casino Slots[87330:3002782] 6.32.0 - [Firebase/Analytics][I-ACS023044] Successful upload. Got network response. Code, size: 204, -1
+2020-11-04 18:04:36.645532+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:04:36.646052+0800 Vegas Friends Casino Slots[87330:3002375] 6.32.0 - [Firebase/Analytics][I-ACS023142] Cancelling background upload task. Task ID : 17
+-> applicationDidEnterBackground()
+2020-11-04 18:04:37.173475+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Disconnect FCM service
+2020-11-04 18:04:37.174057+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Disconnect FCM service
+-> applicationWillEnterForeground()
+2020-11-04 18:04:49.198087+0800 Vegas Friends Casino Slots[87330:3002127] Warning: UNUserNotificationCenter delegate received call to -userNotificationCenter:didReceiveNotificationResponse:withCompletionHandler: but the completion handler was never called.
+2020-11-04 18:04:49.216580+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C7] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.216681+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C4] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.218375+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C9] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.218715+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C14] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.218953+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C7] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.222060+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C4] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.223672+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C9] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.227436+0800 Vegas Friends Casino Slots[87330:3002782] [] nw_read_request_report [C14] Receive failed with error "Software caused connection abort"
+2020-11-04 18:04:49.249538+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM006000] Received message missing local start time, dropped.
+2020-11-04 18:04:49.250443+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM019005] FIRMessagingAnalytics: Sending event: _no params: {
+    "_ndt" = 0;
+    "_nmid" = 7611064277459008613;
+    "_nmt" = 1604484285;
+}
+2020-11-04 18:04:49.250572+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM006000] Received message missing local start time, dropped.
+2020-11-04 18:04:49.257988+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Analytics][I-ACS023051] Logging event: origin, name, params: fcm, notification_open (_no), {
+    ga_event_origin (_o) = fcm;
+    message_device_time (_ndt) = 0;
+    message_id (_nmid) = 7611064277459008613;
+    message_time (_nmt) = 1604484285;
+}
+2020-11-04 18:04:49.258373+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Analytics][I-ACS023073] Debug mode is enabled. Marking event as debug and real-time. Event name, parameters: notification_open (_no), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = fcm;
+    ga_realtime (_r) = 1;
+    message_device_time (_ndt) = 0;
+    message_id (_nmid) = 7611064277459008613;
+    message_time (_nmt) = 1604484285;
+}
+2020-11-04 18:04:49.264285+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS023072] Event logged. Event name, event params: notification_open (_no), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = fcm;
+    ga_realtime (_r) = 1;
+    message_device_time (_ndt) = 0;
+    message_id (_nmid) = 7611064277459008613;
+    message_time (_nmt) = 1604484285;
+}
+2020-11-04 18:04:49.266166+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): 0.9319989681243896
+2020-11-04 18:04:49.508358+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM005000] Start connecting to FIRMessaging service.
+2020-11-04 18:04:49.508416+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM015000] Opening secure socket to FIRMessaging service
+2020-11-04 18:04:49.509119+0800 Vegas Friends Casino Slots[87330:3002127] FCM: Connected to FCM
+-> applicationDidBecomeActive()
+2020-11-04 18:04:49.511033+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS002002] Engagement timer scheduled to fire in approx. (s): 3600
+2020-11-04 18:04:49.511195+0800 Vegas Friends Casino Slots[87330:3003021] 	[Adjust]v: Background timer canceled
+2020-11-04 18:04:49.513020+0800 Vegas Friends Casino Slots[87330:3003021] 	[Adjust]v: Foreground timer starting
+2020-11-04 18:04:49.513179+0800 Vegas Friends Casino Slots[87330:3003021] 	[Adjust]v: Subsession start
+2020-11-04 18:04:49.513246+0800 Vegas Friends Casino Slots[87330:3003021] 	[Adjust]v: Started subsession 4 of session 2
+2020-11-04 18:04:49.515177+0800 Vegas Friends Casino Slots[87330:3003021] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:4 ask:0 sl:398.5 ts:225.2 la:1604484289.5 dt:(null) gdprf:0 dtps:0 att:-1
+2020-11-04 18:04:49.574506+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM015006] Secure socket to FIRMessaging service opened
+2020-11-04 18:04:49.574610+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM005001] Connected to FIRMessaging service.
+2020-11-04 18:04:49.575983+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM005008] There are unacked persistent Ids in the login request: (
+    1604484285458310
+)
+2020-11-04 18:04:49.576280+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM005017] RMQ: Sending GtalkLoginRequest with outgoing stream Id: 1.
+2020-11-04 18:04:49.576314+0800 Vegas Friends Casino Slots[87330:3002881] 6.32.0 - [Firebase/Messaging][I-FCM005018] RMQ: Mark persistent Ids as acked: (
+    1604484285458310
+).
+2020-11-04 18:04:49.823966+0800 Vegas Friends Casino Slots[87330:3002782] 6.32.0 - [Firebase/Messaging][I-FCM005023] Send msg: (null) type: -2 inStreamId: 0 outStreamId: 1
+2020-11-04 18:04:50.080477+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005015] RMQ: Receiving GtalkLoginResponse with incoming stream Id: 1.
+2020-11-04 18:04:50.080547+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005012] Logged onto MCS service.
+2020-11-04 18:04:50.080586+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005017] RMQ: Sending GtalkHeartbeatPing with outgoing stream Id: 2.
+2020-11-04 18:04:50.080666+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005023] Send msg: (null) type: 0 inStreamId: 1 outStreamId: 2
+2020-11-04 18:04:50.080713+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005015] RMQ: Receiving GtalkIqStanza with incoming stream Id: 2.
+2020-11-04 18:04:50.141408+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005015] RMQ: Receiving GtalkHeartbeatAck with incoming stream Id: 3.
+2020-11-04 18:04:50.141466+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005019] RMQ: Server last received stream Id: 2.
+2020-11-04 18:04:50.141519+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005021] RMQ: Mark persistent Ids as confirmed by stream id 1: (
+    1604484285458310
+).
+2020-11-04 18:04:50.141575+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM016008] Successfully deleted sync message from cache 1604484285458310
+2020-11-04 18:04:50.144877+0800 Vegas Friends Casino Slots[87330:3002782] 6.32.0 - [Firebase/Messaging][I-FCM013004] Trying to delete 1 s2D ID's, successfully deleted 1
+2020-11-04 18:04:50.249996+0800 Vegas Friends Casino Slots[87330:3003021] 6.32.0 - [Firebase/Analytics][I-ACS002001] Measurement timer fired
+2020-11-04 18:04:50.250277+0800 Vegas Friends Casino Slots[87330:3003021] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:04:50.250781+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS023105] Event is not subject to real-time event count daily limit. Marking an event as real-time. Event name, parameters: notification_open (_no), {
+    ga_debug (_dbg) = 1;
+    ga_event_origin (_o) = fcm;
+    ga_realtime (_r) = 1;
+    message_device_time (_ndt) = 0;
+    message_id (_nmid) = 7611064277459008613;
+    message_time (_nmt) = 1604484285;
+}
+2020-11-04 18:04:50.253551+0800 Vegas Friends Casino Slots[87330:3003021] 6.32.0 - [Firebase/Analytics][I-ACS012018] Saving bundle. size (bytes): 506
+2020-11-04 18:04:50.253879+0800 Vegas Friends Casino Slots[87330:3003021] 6.32.0 - [Firebase/Analytics][I-ACS023116] Bundle added to the upload queue. BundleID, timestamp (ms): 15, 1604484289197
+2020-11-04 18:04:50.257720+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS023039] Measurement data sent to network. Timestamp (ms), data: 1604484290257, <APMPBMeasurementBatch: 0x280a59ef0>
+2020-11-04 18:04:50.259903+0800 Vegas Friends Casino Slots[87330:3002782] 6.32.0 - [Firebase/Analytics][I-ACS900000] Uploading data. Host: https://app-measurement.com/a
+2020-11-04 18:04:50.410415+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS901006] Received SSL challenge for host. Host: https://app-measurement.com/a
+2020-11-04 18:04:50.486021+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS023044] Successful upload. Got network response. Code, size: 204, -1
+2020-11-04 18:04:50.490336+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Analytics][I-ACS002002] Measurement timer scheduled to fire in approx. (s): -0.2930679321289062
+2020-11-04 18:04:50.497437+0800 Vegas Friends Casino Slots[87330:3002308] 6.32.0 - [Firebase/Analytics][I-ACS002003] Measurement timer canceled
+2020-11-04 18:04:51.497119+0800 Vegas Friends Casino Slots[87330:3002431] dnssd_clientstub write_all(35) DEFUNCT
+2020-11-04 18:04:51.497146+0800 Vegas Friends Casino Slots[87330:3002431] dnssd_clientstub deliver_request ERROR: write_all(35, 70 bytes) failed
+2020-11-04 18:04:51.497169+0800 Vegas Friends Casino Slots[87330:3002431] dnssd_clientstub write_all(35) DEFUNCT
+2020-11-04 18:05:20.084310+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Messaging][I-FCM005017] RMQ: Sending GtalkHeartbeatPing with outgoing stream Id: 3.
+2020-11-04 18:05:20.084673+0800 Vegas Friends Casino Slots[87330:3003022] 6.32.0 - [Firebase/Messaging][I-FCM005023] Send msg: (null) type: 0 inStreamId: 3 outStreamId: 3
+2020-11-04 18:05:20.151154+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Messaging][I-FCM005015] RMQ: Receiving GtalkHeartbeatAck with incoming stream Id: 4.
+2020-11-04 18:05:20.151229+0800 Vegas Friends Casino Slots[87330:3002880] 6.32.0 - [Firebase/Messaging][I-FCM005019] RMQ: Server last received stream Id: 3.
+2020-11-04 18:05:21.559110+0800 Vegas Friends Casino Slots[87330:3002880] 	[Adjust]v: Foreground timer fired
+2020-11-04 18:05:21.569283+0800 Vegas Friends Casino Slots[87330:3002880] 	[Adjust]d: Wrote Activity state: ec:1 sc:2 ssc:4 ask:0 sl:430.5 ts:257.2 la:1604484321.6 dt:(null) gdprf:0 dtps:0 att:-1
+2020-11-04 18:05:50.151048+0800 Vegas Friends Casino Slots[87330:3003278] 6.32.0 - [Firebase/Messaging][I-FCM005017] RMQ: Sending GtalkHeartbeatPing with outgoing stream Id: 4.
+2020-11-04 18:05:50.151140+0800 Vegas Friends Casino Slots[87330:3003278] 6.32.0 - [Firebase/Messaging][I-FCM005023] Send msg: (null) type: 0 inStreamId: 4 outStreamId: 4
+2020-11-04 18:05:50.221257+0800 Vegas Friends Casino Slots[87330:3003278] 6.32.0 - [Firebase/Messaging][I-FCM005015] RMQ: Receiving GtalkHeartbeatAck with incoming stream Id: 5.
+2020-11-04 18:05:50.221335+0800 Vegas Friends Casino Slots[87330:3003278] 6.32.0 - [Firebase/Messaging][I-FCM005019] RMQ: Server last received stream Id: 4.
+2020-11-04 18:05:50.365468+0800 Vegas Friends Casino Slots[87330:3002880] [] tcp_input [C16.1:3] flags=[R] seq=717361728, ack=0, win=0 state=LAST_ACK rcv_nxt=717361728, snd_una=5988098
+2020-11-04 18:05:50.366494+0800 Vegas Friends Casino Slots[87330:3002880] [] tcp_input [C16.1:3] flags=[R] seq=717361728, ack=0, win=0 state=CLOSED rcv_nxt=717361728, snd_una=5988098
+2020-11-04 18:05:50.366714+0800 Vegas Friends Casino Slots[87330:3002880] [] tcp_input [C16.1:3] flags=[R] seq=717361728, ack=0, win=0 state=CLOSED rcv_nxt=717361728, snd_una=5988098
